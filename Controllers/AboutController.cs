@@ -8,6 +8,7 @@ namespace aspnetcore.Controllers
             var name = "Siruz";
             var age = 95;
             age = 99;
+            var username = "dolca";
             return View();
         }
 
