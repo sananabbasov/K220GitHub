@@ -12,9 +12,7 @@ git commit
 
 
 
-```
-dotnet watch run
-```
+For running type ```dotnet watch run``` on cmd
 
 ![This is an image](https://compar.az/staticfiles/defaults/img/compar%20logo1%402x.png)
 
