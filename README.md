@@ -10,6 +10,12 @@ git add
 git commit
 ```
 
+
+
+```
+dotnet watch run
+```
+
 ![This is an image](https://compar.az/staticfiles/defaults/img/compar%20logo1%402x.png)
 
 
