@@ -6,6 +6,7 @@ namespace aspnetcore.Controllers
 
         public IActionResult Index() {
             var name = "Siruz";
+            var age = 99;
             return View();
         }
 
